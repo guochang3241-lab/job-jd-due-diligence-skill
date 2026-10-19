@@ -1,0 +1,4 @@
+interface:
+  display_name: "岗位调研1.0"
+  short_description: "研究投递公司的业务差异与经营变化，深入岗位决策场景，并评估职责资源与面试重点"
+  default_prompt: "使用 $job-jd-due-diligence-v1，根据投递公司、岗位名称和 JD，研究公司竞争差异、业务变化与岗位决策场景，形成有依据的业务洞察、岗位价值分析、风险判断和优先验证问题。"

@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.tmp
+.skill-update-*/
+validation-deps/
+outputs/private/
